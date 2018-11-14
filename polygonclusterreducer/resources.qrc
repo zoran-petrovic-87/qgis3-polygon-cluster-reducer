@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/polygon_cluster_reducer" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
